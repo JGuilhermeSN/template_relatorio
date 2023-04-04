@@ -5,16 +5,16 @@
 ![image](https://user-images.githubusercontent.com/88413707/229311061-74fb8586-e271-4d48-8c55-7387a0eb54a3.png)
 
 ## ATM SWITCH 1:
-![image](https://user-images.githubusercontent.com/88413707/229365045-e1adb235-f6c9-4b0a-aaa8-5bd2dcb2af2d.png)
+![image](https://user-images.githubusercontent.com/88413707/229901824-427b1714-2bb9-48ef-8f81-c8a59dd35956.png)
 
 ## ATM SWITCH 2: 
-![image](https://user-images.githubusercontent.com/88413707/229365071-3fee172c-0a47-44ed-8d64-fa3e39ec37b2.png)
+![image](https://user-images.githubusercontent.com/88413707/229901917-7908ec8b-807e-47e7-a951-7868db78f7df.png)
 
 ## ATM SWITCH3: 
-![image](https://user-images.githubusercontent.com/88413707/229365098-9201baaf-3cef-4bfa-b076-be737df770ab.png)
+![image](https://user-images.githubusercontent.com/88413707/229902015-af109d05-4839-4048-9264-0afa5df591bf.png)
 
 ## R1 Console: 
-![image](https://user-images.githubusercontent.com/88413707/229365367-4823448f-d919-477e-8226-103e28417ef1.png)
+![image](https://user-images.githubusercontent.com/88413707/229901703-71a2331e-fe4e-416b-8cc6-3ba928a93463.png)
 
 ## R2 Console: 
-![image](https://user-images.githubusercontent.com/88413707/229365261-d56c0145-de3f-4d6e-827a-80ae5b9ac723.png)
+![image](https://user-images.githubusercontent.com/88413707/229901589-ba2a9e30-5829-42db-9b35-3e3cbe67d720.png)
